@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Load Receipt
+title: Tap-Receipt Demo
 email: no_email
 description: "Load restaurant receipt"
 twitter_username: restaurant
