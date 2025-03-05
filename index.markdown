@@ -5,8 +5,4 @@
 layout: home
 ---
 
-Blue Hearts Charity
-
-Founded in the memory of my deceased grandmother, to help my other grandmother battle brain cancer.
-
-Read more about us in About.
+# Restaurant Receipt Loads on this Page
