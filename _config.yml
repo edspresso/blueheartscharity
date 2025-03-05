@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: BlueHeartsCharity
-email: blueheartscharity@gmail.com
-description: "The One Dollar Project"
-twitter_username: blueheartscharity
+title: Load Receipt
+email: no_email
+description: "Load restaurant receipt"
+twitter_username: restaurant
 #github_username:  
 
 # Build settings
