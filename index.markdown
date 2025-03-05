@@ -1,3 +1,5 @@
+## Restaurant Receipt Demo
+
 This is a simple **demo receipt page** showcasing how a restaurant bill can be structured and displayed digitally. It simulates a customer receipt, making it easy to test **NFC and QR-based payments**.
 
 ## 📄 Example Receipt
